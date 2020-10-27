@@ -1,0 +1,20 @@
+{
+    "Author": "Ritesh.Modi",
+    "ContentSize": 6106,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/this-runbook-would-uninstall-windows-roles-and-features-on-any-azure-vm/master/Uninstall-WindowsFeature.ps1",
+    "DownloadCount": 671,
+    "Id": "This-runbook-would-UN-596ea321",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 561,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-5T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook uninstalls a windows role/feature on a virtual machine. These features are typically installed using server manager. The festure will be uninstalled and if the feature demands a reboot, the virtual machine will reboot automatically.",
+    "Title": "This runbook would UN-Install Windows roles and features on any Azure VM",
+    "UpdatedDate": "2015-4-5T00:00:00",
+    "Url": "https://github.com/azureautomation/this-runbook-would-uninstall-windows-roles-and-features-on-any-azure-vm",
+    "UserTags": "Microsoft Azure, Roles and Features, Azure Automation"
+}
